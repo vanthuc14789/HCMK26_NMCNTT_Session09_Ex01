@@ -1,0 +1,18 @@
+Phần 1. Phân tích:
+Chỉ ra 2 sai lầm trong tư duy của Nam về việc dùng file Word cho lưu trữ mã nguồn.
+Dùng Word tốt hơn vì có thanh công cụ chọn font chữ, màu sắc trực quan.
+Markdown chỉ là văn bản thô, không thể tạo được tài liệu chuyên nghiệp.
+Giải thích tại sao Markdown lại an toàn và nhẹ hơn.
+Siêu nhẹ (chỉ vài KB), mở và chỉnh sửa tức thì trên mọi hệ điều hành.
+Độc lập với phần mềm, tương thích vĩnh viễn với mọi thế hệ máy tính.
+Chống hư hại: Lỗi 1 ký tự chỉ sai đúng chữ đó, 99.9% nội dung vẫn nguyên vẹn.
+
+Phần 2. Hoàn thiện:
+Sử dụng StackEdit để chuyển đổi một đoạn giới thiệu ngắn từ Word sang Markdown, đảm bảo file có định dạng .md.
+# Giới thiệu dự án
+Dự án **Website bán sách trực tuyến**
+mang đến sự trải nghiệm mua sắm thuận tiện , nhanh chóng, ...
+## Tính năng chính
+- Tìm kiếm sách
+- Thêm vào giỏ hàng 
+- Thanh toán online
